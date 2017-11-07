@@ -1,0 +1,9 @@
+c:\users\kevin\documents\visual studio 2015\Projects\cs341_ktsao5_hwk6\cs341_ktsao5_hwk6\bin\Debug\cs341_ktsao5_hwk6.dacpac
+c:\users\kevin\documents\visual studio 2015\Projects\cs341_ktsao5_hwk6\cs341_ktsao5_hwk6\bin\Debug\cs341_ktsao5_hwk6.dll
+c:\users\kevin\documents\visual studio 2015\Projects\cs341_ktsao5_hwk6\cs341_ktsao5_hwk6\bin\Debug\cs341_ktsao5_hwk6.pdb
+c:\users\kevin\documents\visual studio 2015\Projects\cs341_ktsao5_hwk6\cs341_ktsao5_hwk6\obj\Debug\Model.xml
+c:\users\kevin\documents\visual studio 2015\Projects\cs341_ktsao5_hwk6\cs341_ktsao5_hwk6\obj\Debug\refactor.xml
+c:\users\kevin\documents\visual studio 2015\Projects\cs341_ktsao5_hwk6\cs341_ktsao5_hwk6\obj\Debug\postdeploy.sql
+c:\users\kevin\documents\visual studio 2015\Projects\cs341_ktsao5_hwk6\cs341_ktsao5_hwk6\obj\Debug\predeploy.sql
+c:\users\kevin\documents\visual studio 2015\Projects\cs341_ktsao5_hwk6\cs341_ktsao5_hwk6\obj\Debug\cs341_ktsao5_hwk6.dll
+c:\users\kevin\documents\visual studio 2015\Projects\cs341_ktsao5_hwk6\cs341_ktsao5_hwk6\obj\Debug\cs341_ktsao5_hwk6.pdb
